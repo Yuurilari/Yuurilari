@@ -1,2 +1,0 @@
-# Yuurilari
-Yuuri code
